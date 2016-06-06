@@ -1,0 +1,21 @@
+{
+  "name": "corporate-facilities-finder",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Adam Behrens <behrens.adam@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4"
+  }
+}
